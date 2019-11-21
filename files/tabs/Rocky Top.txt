@@ -44,9 +44,12 @@ Home sweet home to me
              C
 /   /   /   /  /   ^  /  /  /
 Good   ol'    Rocky top
-         Bb     C                        Bb    C
-/  ^  /   /   /  /  /  /  /    /  ^  /    /  /  /  /  /  /
-Rocky top Tennessee,           Rocky top Tennessee
+         Bb     C          
+/  ^  /   /   /  /  /  /  /    
+Rocky top Tennessee
+         Bb     C
+/  ^  /    /  /  /  /  /  /
+Rocky top Tennessee
 
 C                  F           C
 Once two strangers climbed ol' rocky top
@@ -54,7 +57,7 @@ Once two strangers climbed ol' rocky top
 Lookin' for a moon shine still
                     F         C
 strangers ain't come down from rocky top
-           G
+           G      C
 Reckon they never will
 
                   F      C
